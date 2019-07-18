@@ -1,0 +1,82 @@
+[0712/144353.827:ERROR:file_io.cc(134)] WriteFile: 磁盘空间不足。 (0x70)
+[0712/144353.827:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0712/144353.828:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Dell\AppData\Local\Temp\scoped_dir20600_6555\Crashpad\reports\dd47f6ef-00b6-4b3f-8537-2a541f10fbf1.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)
+[0712/144356.173:ERROR:file_io.cc(134)] WriteFile: 磁盘空间不足。 (0x70)
+[0712/144356.174:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0712/144356.175:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Dell\AppData\Local\Temp\scoped_dir19500_31603\Crashpad\reports\cd9b2932-aedd-4854-888a-776806047663.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)
+[0712/144416.218:ERROR:file_io.cc(134)] WriteFile: 磁盘空间不足。 (0x70)
+[0712/144416.219:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0712/144416.220:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Dell\AppData\Local\Temp\scoped_dir19384_6611\Crashpad\reports\8da88aca-9d2a-4358-ad15-6a3d806c84f0.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)
+[0712/144534.759:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Dell\AppData\Local\Temp\scoped_dir11544_19993\Crashpad\reports\40b889a8-c07b-4dac-8900-b8a59de59149.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)
+[0712/144538.200:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: 管道已结束。 (0x6D)
+[0712/152843.089:ERROR:file_io.cc(134)] WriteFile: 磁盘空间不足。 (0x70)
+[0712/152843.089:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0712/152843.090:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Dell\AppData\Local\Temp\scoped_dir21188_10669\Crashpad\reports\866d9e43-3dc1-452d-9f90-941244cf42ba.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)
+[0712/152907.202:ERROR:file_io.cc(134)] WriteFile: 磁盘空间不足。 (0x70)
+[0712/152907.202:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0712/152907.202:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Dell\AppData\Local\Temp\scoped_dir15480_26373\Crashpad\reports\a252823c-d0e6-4a3a-b3da-e2ffaae89d2c.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)
+[0712/153241.249:ERROR:file_io.cc(134)] WriteFile: 磁盘空间不足。 (0x70)
+[0712/153241.250:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0712/153241.250:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Dell\AppData\Local\Temp\scoped_dir20544_11264\Crashpad\reports\5e45f707-2453-41e9-b91d-f8d59c702153.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)
+[0712/155812.647:ERROR:file_io.cc(134)] WriteFile: 磁盘空间不足。 (0x70)
+[0712/155812.648:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0712/155812.648:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Dell\AppData\Local\Temp\scoped_dir17792_14745\Crashpad\reports\3a49e6e7-1d0e-426e-89d9-c9ea2716bb8b.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)
+[0712/155854.855:ERROR:file_io.cc(134)] WriteFile: 磁盘空间不足。 (0x70)
+[0712/155854.855:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0712/155854.855:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Dell\AppData\Local\Temp\scoped_dir14112_27541\Crashpad\reports\211400c0-a60e-4857-b998-9667c307ca90.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)
+[0712/155932.891:ERROR:file_io.cc(134)] WriteFile: 磁盘空间不足。 (0x70)
+[0712/155932.891:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0712/155932.891:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Dell\AppData\Local\Temp\scoped_dir20912_10010\Crashpad\reports\43363d4a-6c50-44e3-8840-5a01f9850eea.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)
+[0712/155946.072:ERROR:file_io.cc(134)] WriteFile: 磁盘空间不足。 (0x70)
+[0712/155946.072:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0712/155946.073:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Dell\AppData\Local\Temp\scoped_dir17140_12386\Crashpad\reports\af012518-0481-4d7b-b9e3-a30747b93ef2.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)
+[0712/161258.460:ERROR:file_io.cc(134)] WriteFile: 磁盘空间不足。 (0x70)
+[0712/161258.461:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0712/161258.461:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Dell\AppData\Local\Temp\scoped_dir5984_9268\Crashpad\reports\3756ee0e-5752-4a00-89aa-d39589198844.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)
+[0712/163839.782:ERROR:file_io.cc(134)] WriteFile: 磁盘空间不足。 (0x70)
+[0712/163839.783:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0712/163839.783:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Dell\AppData\Local\Temp\scoped_dir20928_29352\Crashpad\reports\9f264fe3-6244-4e94-9de5-bb5fbc7895d9.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)
+[0712/164429.489:ERROR:file_io.cc(134)] WriteFile: 磁盘空间不足。 (0x70)
+[0712/164429.489:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0712/164429.489:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Dell\AppData\Local\Temp\scoped_dir14968_1004\Crashpad\reports\23a2baa1-ee4b-4bc4-af76-1eed5c62306d.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)
+[0712/164510.060:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Dell\AppData\Local\Temp\scoped_dir19720_13033\Crashpad\reports\ce637985-5e50-4cc5-99f6-47347e69cedc.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)
+[0712/164511.879:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: 管道已结束。 (0x6D)
+[0713/115037.108:ERROR:file_io.cc(134)] WriteFile: 磁盘空间不足。 (0x70)
+[0713/115037.110:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0713/115037.111:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Dell\AppData\Local\Temp\scoped_dir16524_13075\Crashpad\reports\7848b5a3-c77f-4252-ac3f-d7b00dad2701.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)
+[0713/115039.016:ERROR:file_io.cc(134)] WriteFile: 磁盘空间不足。 (0x70)
+[0713/115039.017:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0713/115039.017:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Dell\AppData\Local\Temp\scoped_dir14444_16644\Crashpad\reports\231c4e87-3ffb-40e2-be73-48f4e96276fe.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)
+[0713/115046.966:ERROR:file_io.cc(134)] WriteFile: 磁盘空间不足。 (0x70)
+[0713/115046.967:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0713/115046.968:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Dell\AppData\Local\Temp\scoped_dir4260_791\Crashpad\reports\35d932ef-94fc-4e39-8505-64f941147a76.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)
+[0713/115048.972:ERROR:file_io.cc(134)] WriteFile: 磁盘空间不足。 (0x70)
+[0713/115048.973:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0713/115048.974:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Dell\AppData\Local\Temp\scoped_dir17320_26233\Crashpad\reports\1509e29b-fbad-444b-baae-5892aea872e8.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)
+[0713/115050.884:ERROR:file_io.cc(134)] WriteFile: 磁盘空间不足。 (0x70)
+[0713/115050.885:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0713/115050.886:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Dell\AppData\Local\Temp\scoped_dir10364_23054\Crashpad\reports\1e8b20da-73e0-4da9-b0c3-deedfffceb00.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)
+[0713/115052.632:ERROR:file_io.cc(134)] WriteFile: 磁盘空间不足。 (0x70)
+[0713/115052.633:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0713/115052.634:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Dell\AppData\Local\Temp\scoped_dir2896_8510\Crashpad\reports\0aa679fd-f040-4ad4-9f54-918746e4580f.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)
+[0713/115054.600:ERROR:file_io.cc(134)] WriteFile: 磁盘空间不足。 (0x70)
+[0713/115054.601:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0713/115054.601:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Dell\AppData\Local\Temp\scoped_dir16868_4080\Crashpad\reports\7e7045ae-806f-4b26-8492-9c8cc967bfa8.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)
+[0713/115124.118:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Users\Dell\AppData\Local\Temp\scoped_dir13336_12521\Crashpad: 磁盘空间不足。 (0x70)
+[0713/115124.123:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: 管道已结束。 (0x6D)
+[0713/115124.123:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Users\Dell\AppData\Local\Temp\scoped_dir13336_12521\Crashpad: 磁盘空间不足。 (0x70)
+[0713/163335.192:ERROR:file_io.cc(134)] WriteFile: 磁盘空间不足。 (0x70)
+[0713/163335.197:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0713/163335.198:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Dell\AppData\Local\Temp\scoped_dir10176_15417\Crashpad\reports\a518a408-0ce8-4d64-bbc8-aaa5d70d0512.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)
+[0713/163337.580:ERROR:file_io.cc(134)] WriteFile: 磁盘空间不足。 (0x70)
+[0713/163337.580:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0713/163337.581:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Dell\AppData\Local\Temp\scoped_dir12256_13528\Crashpad\reports\8a8082a8-b9f8-406e-8c82-db547fb33d34.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)
+[0713/163339.649:ERROR:file_io.cc(134)] WriteFile: 磁盘空间不足。 (0x70)
+[0713/163339.650:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0713/163339.651:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Dell\AppData\Local\Temp\scoped_dir12776_29078\Crashpad\reports\196442e7-31d9-4b23-854f-5565722bdfb7.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)
+[0713/163341.325:ERROR:file_io.cc(134)] WriteFile: 磁盘空间不足。 (0x70)
+[0713/163341.326:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0713/163341.327:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Dell\AppData\Local\Temp\scoped_dir5488_15\Crashpad\reports\4b058ccf-a682-40d3-bdeb-5f4f46144328.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)
+[0713/163343.202:ERROR:file_io.cc(134)] WriteFile: 磁盘空间不足。 (0x70)
+[0713/163343.203:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0713/163343.203:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Dell\AppData\Local\Temp\scoped_dir12896_28069\Crashpad\reports\2baa8fb8-a730-4751-91be-b0adcba5b2e8.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)
